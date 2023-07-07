@@ -52,7 +52,7 @@
     "eslint-plugin-vue": "^6.x",
     "eslint-config-taro": "3.0.6",
     "eslint": "^6.8.0",
-    "stylelint": "9.3.0",
+    "stylelint": "15.10.1",
     "@typescript-eslint/parser": "^2.x",
     "@typescript-eslint/eslint-plugin": "^2.x",
     "typescript": "^3.7.0"
